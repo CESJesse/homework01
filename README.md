@@ -1,1 +1,2 @@
-# homework01
+Code Refactor Project
+This repository is where we took the code for the Horiseon website and refactored it to meet accessibility standards, so that the site is optimized for search engines.  This includes updating semantic HTML elements, ensuring the elements follow a logical structure independent of styling and positioning, providing accessible alt attributes, and including a clear, descriptive title.
